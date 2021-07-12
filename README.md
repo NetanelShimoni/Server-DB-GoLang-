@@ -52,6 +52,19 @@ CREATE DATABASE users;
 ![תמונה](https://user-images.githubusercontent.com/57719538/124265743-d4d33980-db3e-11eb-8967-60ff5f355fb6.png)
 
  
+ **GO**
+ 
+ Install Go:
+ apt install go-glang
+ 
+ 
+ You must import gitub lib and therefore you need to write down the following command:
+  go get github.com/lib/pq
+  
+ Note:
+The server is listening to port 8080 and by postadmin and by HTTP requests I did tests.
+ 
+ 
 
 
 

@@ -55,10 +55,12 @@ CREATE DATABASE users;
  **GO**
  
  Install Go:
+
  apt install go-glang
  
  
- You must import gitub lib and therefore you need to write down the following command:
+ You must import github lib and therefore you need to write down the following command:
+
   go get github.com/lib/pq
   
  Note:

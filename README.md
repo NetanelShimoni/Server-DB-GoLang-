@@ -67,6 +67,26 @@ CREATE DATABASE users;
 The server is listening to port 8080 and by postadmin and by HTTP requests I did tests.
  
  
+**Example:**
+
+*POST - /users*
+![תמונה](https://user-images.githubusercontent.com/57719538/126353290-47958e21-b76f-40cc-a69f-82f0240a029d.png)
+
+
+*GET - /users*
+
+![תמונה](https://user-images.githubusercontent.com/57719538/126353624-6501dc1e-1144-495c-93de-94d3c4849b87.png)
+
+
+*DELETE - /users/0*
+
+![תמונה](https://user-images.githubusercontent.com/57719538/126353868-84093750-2cfe-4a26-afed-54f77fc1c708.png)
+
+*PUT - /users/0*
+
+![תמונה](https://user-images.githubusercontent.com/57719538/126354604-f9008797-c762-4f6c-a0a8-4882102635e6.png)
+
+
 
 
 
